@@ -19,12 +19,11 @@ I am a Systems Engineering student passionate about developing efficient and inn
   - Focused on **UI/UX**, **SEO**, and automated deployment with **Render** and **GitLab CI/CD**.  
 
 ---
-<div align="center">
 
 ## ⚙️ Technical Skills
 
 <div>
-  <strong>Languages:</strong><br/>
+  <strong>Languages:</strong>
   <span style="display: inline-flex; align-items: center; background-color: rgba(247,183,49,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #F7B731;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="Java" width="20" style="margin-right: 0.5em;" />
     <span style="color: #F7B731;">Java</span>
@@ -64,7 +63,7 @@ I am a Systems Engineering student passionate about developing efficient and inn
 </div>
 
 <div style="margin-top: 1em;">
-  <strong>Frameworks:</strong><br/>
+  <strong>Frameworks:</strong>
   <span style="display: inline-flex; align-items: center; background-color: rgba(109,179,63,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #6DB33F;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/springboot.svg" alt="SpringBoot" width="20" style="margin-right: 0.5em;" />
     <span style="color: #6DB33F;">SpringBoot</span>
@@ -104,7 +103,7 @@ I am a Systems Engineering student passionate about developing efficient and inn
 </div>
 
 <div style="margin-top: 1em;">
-  <strong>Tools:</strong><br/>
+  <strong>Tools:</strong>
   <span style="display: inline-flex; align-items: center; background-color: rgba(240,80,50,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #F05032;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="Git" width="20" style="margin-right: 0.5em;" />
     <span style="color: #F05032;">Git</span>
@@ -135,7 +134,6 @@ I am a Systems Engineering student passionate about developing efficient and inn
   </span>
 </div>
 
-</div>
 ---
 
 🚀 **Projects and Repositories**  
