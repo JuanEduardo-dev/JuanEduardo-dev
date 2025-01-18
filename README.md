@@ -22,31 +22,76 @@ I am a Systems Engineering student passionate about developing efficient and inn
 
 ⚙️ <strong>Technical Skills</strong>  
 - <strong>Languages:</strong> 
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="Java" width="20" /> <span style="background-color:#F7B731; padding: 0.2em; border-radius: 5px;">Java</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="Python" width="20" /> <span style="background-color:#306998; padding: 0.2em; border-radius: 5px;">Python</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" alt="TypeScript" width="20" /> <span style="background-color:#007ACC; padding: 0.2em; border-radius: 5px;">TypeScript</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" width="20" /> <span style="background-color:#F0DB4F; padding: 0.2em; border-radius: 5px;">JavaScript</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" alt="PHP" width="20" /> <span style="background-color:#777BB3; padding: 0.2em; border-radius: 5px;">PHP</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" alt="C++" width="20" /> <span style="background-color:#00599C; padding: 0.2em; border-radius: 5px;">C++</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="SQL" width="20" /> <span style="background-color:#00758F; padding: 0.2em; border-radius: 5px;">SQL</span> (PostgreSQL, MySQL, MariaDB), MongoDB, HTML, CSS.  
+  <span style="display: inline-flex; align-items: center; background-color:#F7B731; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" alt="Java" width="20" style="margin-right: 0.5em;" /> Java
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#306998; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" alt="Python" width="20" style="margin-right: 0.5em;" /> Python
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#007ACC; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" alt="TypeScript" width="20" style="margin-right: 0.5em;" /> TypeScript
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#F0DB4F; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" alt="JavaScript" width="20" style="margin-right: 0.5em;" /> JavaScript
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#777BB3; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" alt="PHP" width="20" style="margin-right: 0.5em;" /> PHP
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#00758F; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" alt="SQL" width="20" style="margin-right: 0.5em;" /> SQL
+  </span> (PostgreSQL, MySQL, MariaDB), MongoDB, HTML, CSS.  
+
 - <strong>Frameworks:</strong> 
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/springboot.svg" alt="SpringBoot" width="20" /> <span style="background-color:#6DB33F; padding: 0.2em; border-radius: 5px;">SpringBoot</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fastapi.svg" alt="FastAPI" width="20" /> <span style="background-color:#009688; padding: 0.2em; border-radius: 5px;">FastAPI</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" alt="Flask" width="20" /> <span style="background-color:#000000; padding: 0.2em; border-radius: 5px;">Flask</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg" alt="Next.js" width="20" /> <span style="background-color:#000000; padding: 0.2em; border-radius: 5px;">Next.js</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React" width="20" /> <span style="background-color:#61DAFB; padding: 0.2em; border-radius: 5px;">React</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React Native" width="20" /> <span style="background-color:#61DAFB; padding: 0.2em; border-radius: 5px;">React Native</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" alt="Angular" width="20" /> <span style="background-color:#DD0031; padding: 0.2em; border-radius: 5px;">Angular</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" alt="Tailwind CSS" width="20" /> <span style="background-color:#38B2AC; padding: 0.2em; border-radius: 5px;">Tailwind CSS</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" alt="Bootstrap" width="20" /> <span style="background-color:#563D7C; padding: 0.2em; border-radius: 5px;">Bootstrap</span>
+  <span style="display: inline-flex; align-items: center; background-color:#6DB33F; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/springboot.svg" alt="SpringBoot" width="20" style="margin-right: 0.5em;" /> SpringBoot
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#009688; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fastapi.svg" alt="FastAPI" width="20" style="margin-right: 0.5em;" /> FastAPI
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#000000; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" alt="Flask" width="20" style="margin-right: 0.5em;" /> Flask
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#000000; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg" alt="Next.js" width="20" style="margin-right: 0.5em;" /> Next.js
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#61DAFB; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React" width="20" style="margin-right: 0.5em;" /> React
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#61DAFB; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React Native" width="20" style="margin-right: 0.5em;" /> React Native
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#DD0031; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" alt="Angular" width="20" style="margin-right: 0.5em;" /> Angular
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#38B2AC; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" alt="Tailwind CSS" width="20" style="margin-right: 0.5em;" /> Tailwind CSS
+  </span>
+  <span style="display: inline-flex; align-items: center; background-color:#563D7C; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" alt="Bootstrap" width="20" style="margin-right: 0.5em;" /> Bootstrap
+  </span>
+
 - <strong>Tools:</strong> 
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="Git" width="20" /> <span style="background-color:#F05032; padding: 0.2em; border-radius: 5px;">Git</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" width="20" /> <span style="background-color:#181717; padding: 0.2em; border-radius: 5px;">GitHub</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" alt="GitLab" width="20" /> <span style="background-color:#FCA121; padding: 0.2em; border-radius: 5px;">GitLab</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="Docker" width="20" /> <span style="background-color:#2496ED; padding: 0.2em; border-radius: 5px;">Docker</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" alt="AWS" width="20" /> <span style="background-color:#FF9900; padding: 0.2em; border-radius: 5px;">AWS</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesearchconsole.svg" alt="Google Search Console" width="20" /> <span style="background-color:#4285F4; padding: 0.2em; border-radius: 5px;">Google Search Console</span>
-  - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftclarity.svg" alt="Microsoft Clarity" width="20" /> <span style="background-color:#0078D4; padding: 0.2em; border-radius: 5px;">Microsoft Clarity</span>
+<span style="display: inline-flex; align-items: center; background-color:#F05032; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="Git" width="20" style="margin-right: 0.5em;" /> Git
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#181717; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" width="20" style="margin-right: 0.5em;" /> GitHub
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#FCA121; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" alt="GitLab" width="20" style="margin-right: 0.5em;" /> GitLab
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#2496ED; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" alt="Docker" width="20" style="margin-right: 0.5em;" /> Docker
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#FF9900; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" alt="AWS" width="20" style="margin-right: 0.5em;" /> AWS
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#4285F4; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesearchconsole.svg" alt="Google Search Console" width="20" style="margin-right: 0.5em;" /> Google Search Console
+</span>
+<span style="display: inline-flex; align-items: center; background-color:#0078D4; padding: 0.3em; border-radius: 5px; margin-right: 0.5em;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftclarity.svg" alt="Microsoft Clarity" width="20" style="margin-right: 0.5em;" /> Microsoft Clarity
+</span>
 
 ---
 
