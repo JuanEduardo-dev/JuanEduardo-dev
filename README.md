@@ -60,7 +60,7 @@ I am a Systems Engineering student passionate about developing efficient and inn
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" alt="MongoDB" width="20" style="margin-right: 0.5em;" />
     <span style="color: #47A248;">MongoDB.</span>
   </span>
-</div>
+</div></br>
 
 <div style="margin-top: 1em;">
   <strong>Frameworks:</strong></br>
@@ -96,7 +96,7 @@ I am a Systems Engineering student passionate about developing efficient and inn
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" alt="Bootstrap" width="20" style="margin-right: 0.5em;" />
     <span style="color: #563D7C;">Bootstrap.</span>
   </span>
-</div>
+</div></br>
 
 <div style="margin-top: 1em;">
   <strong>Tools:</strong></br>
