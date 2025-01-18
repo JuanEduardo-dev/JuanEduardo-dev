@@ -21,11 +21,34 @@ I am a Systems Engineering student passionate about developing efficient and inn
 ---
 
 ⚙️ **Technical Skills**  
-- **Languages:** Java, Python, TypeScript, JavaScript, PHP, C++, SQL (PostgreSQL, MySQL, MariaDB), MongoDB, HTML, CSS.  
-- **Frameworks:** SpringBoot, FastAPI, Flask, Next.js, React, React Native, Angular, Tailwind CSS, Bootstrap.  
-- **Tools:** Git, GitHub, GitLab, Docker, AWS, Google Search Console, Microsoft Clarity.  
+- **Languages:** 
+  - ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg) **Java**
+  - ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg) **Python**
+  - ![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg) **TypeScript**
+  - ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg) **JavaScript**
+  - ![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg) **PHP**
+  - ![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg) **SQL** (PostgreSQL, MySQL, MariaDB), MongoDB, HTML, CSS.  
+- **Frameworks:** 
+  - ![SpringBoot](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/springboot.svg) **SpringBoot**
+  - ![FastAPI](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fastapi.svg) **FastAPI**
+  - ![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg) **Flask**
+  - ![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg) **Next.js**
+  - ![React](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg) **React**
+  - ![React Native](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg) **React Native**
+  - ![Angular](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg) **Angular**
+  - ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg) **Tailwind CSS**
+  - ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg) **Bootstrap**
+- **Tools:** 
+  - ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg) **Git**
+  - ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) **GitHub**
+  - ![GitLab](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg) **GitLab**
+  - ![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg) **Docker**
+  - ![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg) **AWS**
+  - ![Google Search Console](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesearchconsole.svg) **Google Search Console**
+  - ![Microsoft Clarity](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftclarity.svg) **Microsoft Clarity**
 
 ---
+
 
 🚀 **Projects and Repositories**  
 In my profile, you will find projects focused on web development, databases, APIs, and distributed systems, applying best practices in programming, design, and continuous deployment.
