@@ -84,10 +84,6 @@ I am a Systems Engineering student passionate about developing efficient and inn
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" alt="React" width="20" style="margin-right: 0.5em;" />
     <span style="color: #61DAFB;">React / React Native, </span>
   </span>
-  <span style="display: inline-flex; align-items: center; background-color: rgba(221,0,49,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #DD0031;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" alt="Angular" width="20" style="margin-right: 0.5em;" />
-    <span style="color: #DD0031;">Angular, </span>
-  </span>
   <span style="display: inline-flex; align-items: center; background-color: rgba(56,178,172,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #38B2AC;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" alt="Tailwind CSS" width="20" style="margin-right: 0.5em;" />
     <span style="color: #38B2AC;">Tailwind CSS, </span>
@@ -100,10 +96,6 @@ I am a Systems Engineering student passionate about developing efficient and inn
 
 <div style="margin-top: 1em;">
   <strong>Tools:</strong></br></br>
-  <span style="display: inline-flex; align-items: center; background-color: rgba(240,80,50,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #F05032;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" alt="Git" width="20" style="margin-right: 0.5em;" />
-    <span style="color: #F05032;">Git, </span>
-  </span>
   <span style="display: inline-flex; align-items: center; background-color: rgba(24,23,23,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #181717;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" width="20" style="margin-right: 0.5em;" />
     <span style="color: #181717;">GitHub, </span>
@@ -119,14 +111,6 @@ I am a Systems Engineering student passionate about developing efficient and inn
   <span style="display: inline-flex; align-items: center; background-color: rgba(255,153,0,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #FF9900;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" alt="AWS" width="20" style="margin-right: 0.5em;" />
     <span style="color: #FF9900;">AWS, </span>
-  </span>
-  <span style="display: inline-flex; align-items: center; background-color: rgba(66,133,244,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #4285F4;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlesearchconsole.svg" alt="Google Search Console" width="20" style="margin-right: 0.5em;" />
-    <span style="color: #4285F4;">Google Search Console, </span>
-  </span>
-  <span style="display: inline-flex; align-items: center; background-color: rgba(0,120,212,0.1); padding: 0.5em; border-radius: 5px; margin: 0.25em; border-bottom: 2px solid #0078D4;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/microsoft.svg" alt="Microsoft Clarity" width="20" style="margin-right: 0.5em;" />
-    <span style="color: #0078D4;">Microsoft Clarity.</span>
   </span>
 </div>
 
