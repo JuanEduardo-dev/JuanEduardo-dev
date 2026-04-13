@@ -6,7 +6,7 @@ I am a Systems Engineering passionate about developing efficient and innovative 
 ---
 
 🎓 **Education**  
-- **Systems Engineering (In Progress)**  
+- **Systems Engineering**  
   National University Hermilio Valdizán, Peru
   
 ---
