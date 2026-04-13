@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Eduardo 👋</h1>
 
 👨‍💻 **About Me**  
-I am a Systems Engineering student passionate about developing efficient and innovative solutions. I excel in programming, system design, and project management. I value continuous learning, teamwork, and the ability to adapt to new technological challenges.
+I am a Systems Engineering passionate about developing efficient and innovative solutions. I excel in programming, system design, and project management. I value continuous learning, teamwork, and the ability to adapt to new technological challenges.
 
 ---
 
