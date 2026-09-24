@@ -6,7 +6,7 @@ I am a Software Engineer passionate about developing efficient and innovative so
 ---
 
 🎓 **Education**  
-- **Systems Engineering**  
+- **Software Engineer**  
   National University Hermilio Valdizán, Peru
   
 ---
