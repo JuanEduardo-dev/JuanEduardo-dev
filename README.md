@@ -13,15 +13,16 @@ I am a Systems Engineering passionate about developing efficient and innovative 
 
 💻 **Experience**
 
-- **Software Developer | Indrox**
+- **Software Developer | Indrox**  
+  *01/2025 - Present*
   - Building and maintaining web and mobile products.
   - Working across full-stack systems, APIs, databases, and third-party integrations.
-  - Developing systems with technologies like **React, Next.js, NestJS, PostgreSQL, and Expo**.
+  - Developing applications using technologies like **React, Next.js, NestJS, PostgreSQL, and Expo**.
   - Integrating third-party services, payments, authentication, and other services needed to take products into production.
   - Using AI tools throughout the development workflow to explore, build, and improve solutions.
 
-- **Web Application Developer | Volunteer**  
-  *Buccasan Clinic · Huánuco, Peru · 07/2024 - 12/2024*
+- **Web Application Developer | Buccasan Clinic**  
+  *07/2024 - 12/2024*
   - Designed and developed a web application to improve the clinic's management and online presence.
   - Built the system using **Next.js, FastAPI, and PostgreSQL**.
   - Worked on UI/UX, SEO, and automated deployment using **Render and GitLab CI/CD**.
